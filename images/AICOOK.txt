@@ -1,0 +1,49 @@
+AICook
+
+The idea is that the cameras can scan what’s inside and let users know what items they’re short on, 
+even making meal suggestions based on the ingredients they still have.
+So in short, we take an exiting frigde and add software upgrades to enable 
+AI image recognition in its View Inside cameras.
+
+Improved meal planning with the help of Akaani.
+Akaani lets users plan meals for up to a week and then creates smart shopping lists using ingredients that 
+apply to multiple recipes.
+
+2 very important points
+It identifies ingredients in the frigde and offer up recipe and meal plan suggestions based on what 
+ingredients you have.
+
+Hardware Component
+Raspberry pi 4 (4gb ram, 16gb sd card, Debain OS)
+
+Ingredients List 516 images
+Name		No of annotation
+apple      	912              
+banana     	1400         
+beef      	800          
+blueberries   	1200          
+bread      	624          
+butter     	1224             
+carrot      	1392             
+cheese     	1768         
+chicken     	1296         
+chicken_bre..  	624           
+chocolate    	424          
+corn      	1368              
+eggs       	920              
+flour      	1576         
+goat_cheese   	760           
+green_beans   	1352         
+ground_beef   	712          
+ham       	592          
+heavy_cream   	1224             
+lime      	1144         
+milk      	1344          
+mushrooms    	1280             
+onion      	1280         
+potato     	1704             
+shrimp      	1456            
+spinach     	1280         
+strawberries  	1840              
+sugar      	1832         
+sweet_potato  	1256 
